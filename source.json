@@ -1,0 +1,18 @@
+{
+  "name": "QuizHub Source",
+  "apps": [
+    {
+      "name": "QuizHub",
+      "bundleIdentifier": "com.yslbeezy.quizhub",
+      "developerName": "YSLBeezy",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "downloadURL": "https://yslbeezy.github.io/quizhub-source/QuizHub-0.1.0+1.ipa",
+          "date": "2025-10-28"
+        }
+      ]
+    }
+  ]
+}
