@@ -1,20 +1,41 @@
 {
   "name": "QuizHub Source",
-  "iconURL": "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
+  "subtitle": "Internal test source for QuizHub",
+  "description": "Full version history of QuizHub.",
+  "iconURL": "https://i.imgur.com/IyvtRIR.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#8f56e2",
+  "featuredApps": [],
   "apps": [
     {
       "name": "QuizHub",
       "bundleIdentifier": "com.yslbeezy.quizhub",
+      "marketplaceID": "",
       "developerName": "YSLBeezy",
-      "iconURL": "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
+      "subtitle": "Trivia app project",
+      "localizedDescription": "Only available on AltStore.",
+      "iconURL": "https://i.imgur.com/hrx5nrx.png",
+      "tintColor": "#8f56e2",
+      "category": "games",
+      "screenshots": [],
       "versions": [
         {
           "version": "0.1.0",
-          "buildVersion": "1",
+          "date": "2025-10-28T00:00:00+01:00",
+          "localizedDescription": "First pre-alpha release",
           "downloadURL": "https://yslbeezy.github.io/quizhub-source/QuizHub-0.1.0+1.ipa",
-          "date": "2025-10-28"
+          "size": 100000,
+          "buildVersion": "1",
+          "minOSVersion": null
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
-  ]
+  ],
+  "news": []
 }
