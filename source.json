@@ -1,10 +1,12 @@
 {
   "name": "QuizHub Source",
+  "iconURL": "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
   "apps": [
     {
       "name": "QuizHub",
       "bundleIdentifier": "com.yslbeezy.quizhub",
       "developerName": "YSLBeezy",
+      "iconURL": "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
       "versions": [
         {
           "version": "0.1.0",
