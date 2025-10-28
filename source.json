@@ -4,38 +4,24 @@
   "description": "Full version history of QuizHub.",
   "iconURL": "https://i.imgur.com/IyvtRIR.png",
   "website": "https://github.com/yslbeezy",
-  "patreonURL": "",
   "tintColor": "#8f56e2",
-  "featuredApps": [],
   "apps": [
     {
       "name": "QuizHub",
       "bundleIdentifier": "com.yslbeezy.quizhub",
-      "marketplaceID": "",
       "developerName": "YSLBeezy",
       "subtitle": "Trivia app project",
       "localizedDescription": "Only available on AltStore.",
       "iconURL": "https://i.imgur.com/hrx5nrx.png",
       "tintColor": "#8f56e2",
       "category": "games",
-      "screenshots": [],
       "versions": [
         {
           "version": "0.1.0",
           "date": "2025-10-28T00:00:00+01:00",
           "localizedDescription": "First pre-alpha release",
           "downloadURL": "https://yslbeezy.github.io/quizhub-source/QuizHub-0.1.0+1.ipa",
-          "size": 100000,
           "buildVersion": "1",
-          "minOSVersion": null
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    }
-  ],
-  "news": []
 }
